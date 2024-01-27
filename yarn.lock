@@ -792,10 +792,10 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/node@^18.15.11":
-  version "18.19.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.10.tgz#4de314ab66faf6bc8ba691021a091ddcdf13a158"
-  integrity sha512-IZD8kAM02AW1HRDTPOlz3npFava678pr8Ie9Vp8uRhBROXAv8MXT2pCnGZZAKYdromsNQLHQcfWQ6EOatVLtqA==
+"@types/node@^20.0.0":
+  version "20.11.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.8.tgz#bdb6de1048613c3c6ab6c341c37e8fd1a7860308"
+  integrity sha512-i7omyekpPTNdv4Jb/Rgqg0RU8YqLcNsI12quKSDkRXNfx7Wxdm6HhK1awT3xTgEkgxPn3bvnSpiEAc7a7Lpyow==
   dependencies:
     undici-types "~5.26.4"
 
